@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Arisya Husna 👋
 
-<!--
-**arisyahusna/arisyahusna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
 
-Here are some ideas to get you started:
+💻 Interested in
+- Web Development
+- Java
+- Augmented Reality
+- Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Technologies
+- Java
+- PHP
+- HTML
+- CSS
+- JavaScript
+- SQL
+
+📫 Connect with me
+LinkedIn: www.linkedin.com/in/arisya-husna
